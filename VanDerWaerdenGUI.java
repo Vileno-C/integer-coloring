@@ -24,7 +24,7 @@ public class VanDerWaerdenGUI extends JFrame {
         numCoresField = new JTextField(5);
         inputPanel.add(numCoresField);
 
-        inputPanel.add(new JLabel("Tamanho da PA:"));
+        inputPanel.add(new JLabel("Tamanho da Sequência:"));
         tamPAField = new JTextField(5);
         inputPanel.add(tamPAField);
 
